@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toster</h1>
-<h3 align="center">Just 15yo dont hate pls 🥺</h3>
+<h3 align="center">Im 15yo dont hate pls 🥺</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tosterlolz&label=Profile%20views&color=0e75b6&style=flat" alt="tosterlolz" /> </p>
 
