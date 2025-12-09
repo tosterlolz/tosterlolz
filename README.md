@@ -1,7 +1,24 @@
-Haii :3 I'm BytePtr!
-[![My Discord](https://disi-api.bennynguyen.dev/smallcard_svg/1447884887485972532?&bg1=162647&bg2=101829&activity=true&mood=true&angle=0&discordLabel=true&displayUsername=true)](https://discord.com/users/1447884887485972532)
+# 🌸 Haii :3 I'm **BytePtr**!
+
+[![My Discord](https://disi-api.bennynguyen.dev/smallcard_svg/1447884887485972532?\&bg1=162647\&bg2=101829\&activity=true\&mood=true\&angle=0\&discordLabel=true\&displayUsername=true)](https://discord.com/users/1447884887485972532)
+
+---
+
+## ✨ About Me
+
+Hi! I'm **BytePtr**, welcome to my README!
+I love coding, experimenting, creating unusual things, playing with bots, and generally ~~taking control over the internet~~ building cool projects.
+
+🔹 Aesthetic enjoyer <br>
+🔹 Discord enthusiast <br>
+🔹 Pixel art & anime vibes 🌸<br>
+🔹 Best programming language? The one that works<br> 
+
+---
+
+## 🩵 My Vibes
+
 <pre>
-  
 ⠀⠀⠀⠀⡰⠁⠀⠀⢀⢔⣔⣤⠐⠒⠒⠒⠒⠠⠄⢀⠀⠐⢀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⡐⢀⣾⣷⠪⠑⠛⠛⠛⠂⠠⠶⢶⣿⣦⡀⠀⠈⢐⢠⣑⠤⣀⠀⠀⠀⠀
 ⠀⢀⡜⠀⢸⠟⢁⠔⠁⠀⠀⠀⠀⠀⠀⠀⠉⠻⢷⠀⠀⠀⡦⢹⣷⣄⠀⢀⣀⡀        Astolfo :3
@@ -16,5 +33,5 @@ Haii :3 I'm BytePtr!
 ⠀⠀⠈⢻⠀⡆⠀⠀⠀⠀⠀⠀⠀⠀⠐⠆⡘⡇⠀⣼⣿⡇⢀⠀⠀⠀⢱⠁⠀⠀
 ⠐⢦⣀⠸⡀⢸⣦⣄⡀⠒⠄⠀⠀⠀⢀⣀⣴⠀⣸⣿⣿⠁⣼⢦⠀⠀⠘⠀⠀⠀
 ⠀⠀⢎⠳⣇⠀⢿⣿⣿⣶⣤⡶⣾⠿⠋⣁⡆⡰⢿⣿⣿⡜⢣⠀⢆⡄⠇⠀⠀⠀
-⠀⠀⠈⡄⠈⢦⡘⡇⠟⢿⠙⡿⢀⠐⠁⢰⡜⠀⠀⠙⢿⡇⠀⡆⠈⡟⠀⠀⠀⠀
+⠀⠀⠈⡄⠈⢦⡘⡇⠟⢿⠙⡿⢀⠐
 </pre>
