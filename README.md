@@ -1,5 +1,5 @@
 # 🌸 Haii :3 I'm **BytePtr**!
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E2Y454F)
 [![My Discord](https://disi-api.bennynguyen.dev/smallcard_svg/1447884887485972532?\&bg1=162647\&bg2=101829\&activity=true\&mood=true\&angle=0\&discordLabel=true\&displayUsername=true)](https://discord.com/users/1447884887485972532)
 
 ---
